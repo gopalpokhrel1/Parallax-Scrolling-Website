@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height: 100%;
+}
+.img{
+    min-height: 100%;
+    background: url(img/nature1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.img1{
+    height: 400px;
+    background: url(img/nature2.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.img2
+{
+    height: 400px;
+    background: url(img/nature3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.text{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    color: white;
+    letter-spacing: 4px;
+    font-size: 30px;
+    text-align: center;
+
+}
+.text1{
+    padding: 20px;
+    background-color: blue;
+}
+.second{
+    width: 100%;
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+}
+p{
+        width: 900px;
+    margin: 20px auto;
+    line-height: 25px;
+    font-size: large;
+    text-align: end;
+}
